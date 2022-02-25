@@ -1,1 +1,0 @@
-**Algorihtmic puzzles implementation using C++**
